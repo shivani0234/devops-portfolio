@@ -1,0 +1,13 @@
+{
+  "name": "devops-portfolio",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for DevOps portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["devops", "docker", "portfolio"],
+  "author": "Shivani Kumari",
+  "license": "ISC"
+}
